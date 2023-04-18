@@ -4,7 +4,7 @@
 <a href="ilaverendeev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://leetcode.com/Z5-05/"><img src="https://img.shields.io/badge/Leetcode-orange?logo=Leetcode&color=black" alt="Leetcode"/></a>
 </p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">hello there <img src="https://media.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" width="40"></h1>
 
 ### 💻: About Me :
 - :office: I’m working as a Data Analyst in OZON - one of the leading Russian e-commerce company.
