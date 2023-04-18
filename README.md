@@ -1,4 +1,3 @@
----
 <p align="center"><img src="https://media.tenor.com/nEP6ovplEd8AAAAi/so-really.gif" width="200"/></p>
 <p align="center">
 <a href="https://t.me/ilyaverendeev"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
