@@ -1,3 +1,4 @@
+---
 <div id="header" align="center">
   <img src="https://media.tenor.com/nEP6ovplEd8AAAAi/so-really.gif" width="200"/>
   <div id="badges">
@@ -15,9 +16,10 @@
   <h1>
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
 </div>
-
+---
+### ⚡ Обо мне :
 
 
 
