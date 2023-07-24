@@ -11,7 +11,7 @@
 - :mortar_board: I earched a bachelor's degree in Applied Mathematics and Informatics at the National Research Nuclear University MEPhI. Now I continue education to pursue my master's degree in the same specialty.
 - :book: Now I'm studing MLOPS Engineer at VK MADE Big Data Academy.
 - :mag: Interested in Data Engineer, Spark, Hadoop.
-- :notebook: Find my CV here.
+- :notebook: Find my CV [here](https://z5-05.github.io/digital-cv/).
 
 ---
 
