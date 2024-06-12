@@ -7,9 +7,9 @@
 <h1 align="center">hello there <img src="https://media.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" width="40"></h1>
 
 ### 💻: About Me :
-- :office: I’m working as a Data Analyst in OZON - one of the leading Russian e-commerce company.
+- :office: I’m working as a Data Engineer in Tinkoff - the largest online-bank in Russia.
 - :mortar_board: I earched a bachelor's degree in Applied Mathematics and Informatics at the National Research Nuclear University MEPhI. Now I continue education to pursue my master's degree in the same specialty.
-- :book: Now I'm studing MLOPS Engineer at VK MADE Big Data Academy.
+- :book: I received the MLOPS ENGINEER specialty at VK MADE Big Data Academy.
 - :mag: Interested in Data Engineer, Spark, Hadoop.
 - :notebook: Find my CV [here](https://z5-05.github.io/digital-cv/).
 
